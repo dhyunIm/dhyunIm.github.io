@@ -11,7 +11,7 @@ layout: single
 
 ---
 ### Formation of Conic Section(이차곡선의 형성)
-![coninc section](/assets/images/conic section.jpg)
+![coninc section](/assets/images/https://github.com/dhyunIm/dhyunIm.github.io/blob/master/assets/images/conic%20section.jpg)
 
 이차곡선은 위의 그림과 같이 두 원뿔을 꼭짓점이 마주보도록 세운 입체도형을 어떤 단면으로 잘라서 만들 수 있다. 
 포물선, 원, 타원, 쌍곡선이 이차곡선의 종류이다. 
