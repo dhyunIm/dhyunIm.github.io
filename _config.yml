@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "For Your Management"
+title                    : "Geometry"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donghyun Im"
-description              : "Welcome to my universe. Please come over, sit back, and share your world with me."
+description              : "Let no one ignorant of geometry enter"
 url                      : "https://dhyunIm.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dhyunIm/dhyunIm.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
